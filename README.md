@@ -1,0 +1,1 @@
+# Induction-Motor-Fault-Classification-Using-K-NN-and-PCA
